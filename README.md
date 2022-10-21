@@ -1,4 +1,4 @@
-# Cnn_image_prediction
+# keras_image_prediction
 so many images here like truck frog etc 
 
 this dataset is download from cnn database 
